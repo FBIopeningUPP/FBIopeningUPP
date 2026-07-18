@@ -1,6 +1,19 @@
 ### ⚡ root@FBIopeningUPP:~#
 
 ```console
+user@hardware-lab:~$ ./initialize_profile.sh
+[ OK ] Booting Hardware Interface...
+[ OK ] Mounting GitHub Stats...
+[ OK ] Establishing Secure Connection...
+```
+
+<p align="left">
+  <a href="https://github.com/FBIopeningUPP">
+    <img src="https://komarev.com/ghpvc/?username=FBIopeningUPP&color=blue&style=for-the-badge&label=UNIQUE+VISITORS" alt="Profile Views" />
+  </a>
+</p>
+
+```console
 user@hardware-lab:~$ cat profile.json
 {
   "username": "FBIopeningUPP",
@@ -23,11 +36,10 @@ Loading design suite and embedded stack...
 ```
 
 <p align="left">
-  <!-- Hardware & PCB Tools (Using standard badges since skillicons doesn't have all CAD tools) -->
+  <!-- Hardware & PCB Tools -->
   <img src="https://img.shields.io/badge/Altium_Designer-000000?style=for-the-badge&logo=altium&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCad-FFFFFF?style=for-the-badge&logo=kicad&logoColor=black" />
-  <img src="https://img.shields.io/badge/Eagle-C9252C?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-D3222A?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion_360-F37021?style=for-the-badge&logo=autodesk&logoColor=white" />
   <br><br>
   <!-- Embedded & Software Stack -->
   <a href="https://skillicons.dev">
@@ -36,18 +48,19 @@ Loading design suite and embedded stack...
 </p>
 
 ```bash
-user@hardware-lab:~$ neofetch --github-stats
-Fetching telemetry data...
+user@hardware-lab:~$ ./fetch_telemetry.sh
+Fetching GitHub metrics...
 ```
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FBIopeningUPP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=A9B1D6&icon_color=7AA2F7&title_color=7AA2F7" alt="GitHub stats" width="400"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FBIopeningUPP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=A9B1D6&icon_color=7AA2F7&title_color=7AA2F7" alt="GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=FBIopeningUPP&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakNum=A9B1D6" alt="GitHub Streak" width="48%"/>
 </p>
 
 ```bash
-user@hardware-lab:~$ ping -c 1 user
+user@hardware-lab:~$ echo "End of transmission."
 ```
 
-> 📡 **Connection established:** Always open to collaborating on open-source hardware, IoT projects, and embedded systems. 
+> 📡 **Ping me:** Always open to collaborating on open-source hardware, IoT projects, and embedded systems. 
 > 
-> Drop a PR or an Issue in my repos if you want to talk circuits! ⚙️
+> 📧 Drop a PR or an Issue in my repos if you want to talk circuits! ⚙️
