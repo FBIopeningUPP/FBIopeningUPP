@@ -53,7 +53,7 @@ Fetching GitHub metrics...
 ```
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FBIopeningUPP)](https://git.io/streak-stats)  <img src="https://streak-stats.demolab.com/?user=FBIopeningUPP&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakNum=A9B1D6" alt="GitHub Streak" width="48%"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FBIopeningUPP&theme=dark&timezone=IST" alt="GitHub Streak" /></a>
 </p>
 
 ```bash
