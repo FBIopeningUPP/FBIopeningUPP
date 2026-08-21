@@ -53,8 +53,7 @@ Fetching GitHub metrics...
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FBIopeningUPP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=A9B1D6&icon_color=7AA2F7&title_color=7AA2F7" alt="GitHub stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=FBIopeningUPP&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakNum=A9B1D6" alt="GitHub Streak" width="48%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FBIopeningUPP)](https://git.io/streak-stats)  <img src="https://streak-stats.demolab.com/?user=FBIopeningUPP&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakNum=A9B1D6" alt="GitHub Streak" width="48%"/>
 </p>
 
 ```bash
